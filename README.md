@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm grossekette, a web & software developer
-<br>
 
 ## Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://switchbla.de">**switchbla.de**</a> - Personal site<br>
@@ -7,12 +6,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/iraizo/nvidia-overlay-hijack">**nvidia-overlay-hijack**</a> - Hijacking the nvidia overlay with C++.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/iraizo/discordGrabber/">**discordGrabber [dead]**</a> - Information stealer from the discord process via signature scanning.<br>
 
-## GPG Fingerprint 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`0x4CDAAA9CC7AA12C8`
-<br>
-
 ## Languages
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TypeScript/JavaScript
 <br>
