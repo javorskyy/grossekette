@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm grossekette, a web & software developer
 
+## Projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://lightbringer.wtf (closed)] -- A private game hack provider project focused on FPS titles such as Rainbow Six: Siege & Apex Legends.  
+
 ## Languages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++  
