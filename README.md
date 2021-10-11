@@ -2,6 +2,7 @@
 
 ## Projects
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://lightbringer.wtf (closed)] -- A private game hack provider project focused on FPS titles such as Rainbow Six: Siege & Apex Legends.
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://starprinter.wtf] -- A project focused on bypassing game bans from popular anti-cheats such as EAC/BattlEye.  
 
 
